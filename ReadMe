@@ -1,0 +1,12 @@
+Open the zip file and extract the "QAP 4 - Program and Data Files". 
+Folder contents:
+- .idea(Folder)
+- venv(Folder)
+- Customer Report.py
+- OSICDef.dat
+- Payments.dat
+- Policies.dat
+- Policy Program and Receipt.py
+- Sleep-Tite ERD.png
+- Sleep-Tite Reports(Examples)
+- Sleep-Tite Reports.docx(Ignore this file)
